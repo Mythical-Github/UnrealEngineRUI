@@ -72,3 +72,9 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+/Plugins/UnrealAutoMod/Resources/UnrealAutoMod/backup
+/Plugins/UnrealAutoMod/Resources/UnrealAutoMod/default
+/Plugins/UnrealAutoMod/Resources/UnrealAutoMod/template
+Plugins/UnrealAutoMod/Resources/UnrealAutoMod/help.bat
+Plugins/UnrealAutoMod/Resources/UnrealAutoMod/run_default.bat
+Plugins/UnrealAutoMod/Resources/UnrealAutoMod/run_default_headless.bat
